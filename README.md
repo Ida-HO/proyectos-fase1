@@ -1,2 +1,2 @@
-# proyectos-fase1
+# calculadora-basica
 Repositorio creado para mostrar proyectos básicos...
